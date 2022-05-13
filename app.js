@@ -13,3 +13,5 @@ yargs.parse();
 
 // console.log(chalk.red.inverse("ciao"))
 // console.log(argv_parsed)
+
+// node app.js del  --nome="Giulio"
