@@ -1,1 +1,9 @@
-[{"nome":"Gianni","email":"Gianni@gianni.it","telefono":"234324"},{"nome":"Martina","email":"martina@gianni.it","telefono":"234324"}]
+[
+  { "nome": "Gianni", "email": "Gianni@gianni.it", "telefono": "234324" },
+  { "nome": "Martina", "email": "1@gianni.it", "telefono": "1" },
+  { "nome": "Giulio", "email": "martina@gianni.it", "telefono": "234324" },
+  { "nome": "Giulio", "email": "martina@gianni.it", "telefono": "234324" },
+  { "nome": "franco", "email": "martina@gianni.it", "telefono": "234324" },
+  { "nome": "Matteo", "email": "martina@gianni.it", "telefono": "234324" },
+  { "nome": "Martina", "email": "2@martina.it", "telefono": "2" }
+]
