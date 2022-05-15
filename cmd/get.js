@@ -56,12 +56,7 @@ function getCliente(name){
                   let stringEmail = totClienti[i].email;
                   let stringTelefono = totClienti[i].telefono;
                   let stringItem = `cliente ${i}: Nome: ${stringName}, Email: ${stringEmail}, Telefono: ${stringTelefono} \n`;
-                //   console.log(typeof totClienti[i].nome);
-                //   console.log(stringItem);
                   stringTotClienti += stringItem;
-
-                  //     return  ris.cliente = 'clienteItem'; 
-                //   console.log(stringTotClienti)
               })
               ris.cliente = stringTotClienti;
             } if(totClienti.length === 1){
